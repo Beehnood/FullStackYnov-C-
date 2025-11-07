@@ -1,0 +1,14 @@
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/bin/Debug/net9.0/FullStackYnov
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/bin/Debug/net9.0/FullStackYnov.deps.json
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/bin/Debug/net9.0/FullStackYnov.runtimeconfig.json
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/bin/Debug/net9.0/FullStackYnov.dll
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/bin/Debug/net9.0/FullStackYnov.pdb
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.AssemblyInfoInputs.cache
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.AssemblyInfo.cs
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.csproj.CoreCompileInputs.cache
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.dll
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/refint/FullStackYnov.dll
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.pdb
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/FullStackYnov.genruntimeconfig.cache
+/Users/behnoodpazhang/Desktop/b2/projet_deve/C#/FullStackYnov/obj/Debug/net9.0/ref/FullStackYnov.dll
