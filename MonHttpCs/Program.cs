@@ -1,5 +1,6 @@
 using MonHttpCs.Interfaces;
 using MonHttpCs.Services;
+using MonHttpCs.Repositories;
 
 public class Program
 {
@@ -9,6 +10,10 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllers();
+
+        // Register Repository and Services
+        builder.Services.AddScoped<IUserRepository, UserRepository>();
+        builder.Services.AddScoped<IUserService, UserService>();
 
         // Register services for dependency injection
         builder.Services.AddScoped<IProductRepository, InMemoryProductRepository>();

@@ -1,15 +1,21 @@
-namespace MyWebAPI.Models;
-
-public class User
+namespace MonHttpCs.Models
 {
-  public int Id { get; set; }
-  public string Username { get; set; }
-  public int Age { get; set; }
+    public class User
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public int Age { get; set; }
+        public string Email { get; set; } = string.Empty;
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-  public User(int id, string username, int age)
-  {
-    Id = id;
-    Username = username;
-    Age = age;
-  }
+        public User() { }
+
+        public User(int id, string name, int age, string email = "")
+        {
+            Id = id;
+            Name = name;
+            Age = age;
+            Email = email;
+        }
+    }
 }
